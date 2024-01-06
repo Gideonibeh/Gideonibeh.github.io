@@ -17,7 +17,7 @@ I am excited to be part of this program should this site/application suit your r
 ### Contact
 > You can contact me on email: 
 >
-> onyedikaibehgideon@gmail.com
+> onyedikaibehgodson@gmail.com
 >
 >  phone number:
 >
