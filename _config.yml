@@ -40,7 +40,7 @@ author: gideon
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: " Gog (cleft) {2023} {Gog}"
+copyright: " Gog (cleft) {2024} {Gog}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   I am a frontend deveveloper from Enugu Nigeria 
